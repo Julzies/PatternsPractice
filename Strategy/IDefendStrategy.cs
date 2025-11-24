@@ -1,0 +1,4 @@
+interface IDefendStrategy
+{
+    void Defend();
+}

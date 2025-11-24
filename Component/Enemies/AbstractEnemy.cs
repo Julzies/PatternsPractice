@@ -1,3 +1,4 @@
+// TODO: Implement setting and removing components at runtime
 namespace Enemies
 {
     class AbstractEnemy
